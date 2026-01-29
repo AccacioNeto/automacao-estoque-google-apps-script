@@ -1,5 +1,6 @@
 🚀 **Case: Automação e Consolidação de Dados em Escala (77 Unidades)**
-<img width="1577" height="901" alt="image" src="https://github.com/user-attachments/assets/f2ba2edf-9d07-40e8-a67b-004abfcefc21" />
+<img width="1748" height="904" alt="image" src="https://github.com/user-attachments/assets/f90ee6b3-11b0-459d-ac8f-abf65a119742" />
+
 <img width="1654" height="941" alt="image" src="https://github.com/user-attachments/assets/9737e534-c60a-48af-8681-1e3ec8922076" />
 
 📋 **O Problema (O Desafio)**
