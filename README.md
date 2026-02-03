@@ -3,6 +3,8 @@
 
 <img width="1654" height="941" alt="image" src="https://github.com/user-attachments/assets/9737e534-c60a-48af-8681-1e3ec8922076" />
 
+<img width="1773" height="805" alt="image" src="https://github.com/user-attachments/assets/3ef9de98-098f-4d24-b4ad-b849a6e3206f" />
+
 📋 **O Problema (O Desafio)**
 Imagine a tarefa de consolidar mensalmente o inventário de 77 unidades (oficinas) espalhadas pelo país. Cada unidade envia um arquivo Excel (.xlsx) com centenas de linhas.
 
